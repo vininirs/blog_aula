@@ -17,8 +17,8 @@
                 </ul>
 <span class="navbar-text">
 <form class="container-fluid justify-content-start">
-    <button class="btn btn-primary" type="button">Entrar</button>
-    <button class="btn btn-primary" type="button">Cadastre-se </button>
+    <button class="btn btn sucess" type="button">Entrar</button>
+    <button class="btn btn sucess" type="button">Cadastre-se </button>
   </form>
                             </div>
         </nav>
